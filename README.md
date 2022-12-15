@@ -1,2 +1,2 @@
 # Simon-Game
-Simon Game build in HTMl, CSS and React
+Simon Game build in HTMl, CSS and JavaScript
